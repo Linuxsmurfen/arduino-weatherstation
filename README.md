@@ -1,2 +1,2 @@
 # arduino-weatherstation
-Wireless arduino weatherstation using esp8266 and ds2480
+Wireless arduino weatherstation using ESP8266 and BME280
